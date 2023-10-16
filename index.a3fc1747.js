@@ -22,6 +22,6 @@ this.off(["close."+this.eventNamespace,"closed."+this.eventNamespace,"nextImageL
                         <p class="info-item"><b>Comments:</b> ${t.comments}</p>
                         <p class="info-item"><b>Downloads:</b> ${t.downloads}</p>
                     </div>
-                `,g.appendChild(e)}}),y.refresh(),1===o&&(x.style.display="flex")}catch(t){console.error(t)}}//# sourceMappingURL=index.4b136582.js.map
+                `,g.appendChild(e)}}),y.refresh(),1===o&&(x.style.display="flex")}catch(t){console.error(t)}}//# sourceMappingURL=index.a3fc1747.js.map
 
-//# sourceMappingURL=index.4b136582.js.map
+//# sourceMappingURL=index.a3fc1747.js.map
