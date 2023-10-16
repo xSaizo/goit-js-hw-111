@@ -1,5 +1,5 @@
 
-import { updatePhotoList } from './markup.js';
+import { updatePhotoList } from './markup';
 
 const ENDPOINT = 'https://pixabay.com/api/';
 const API_KEY = '40064667-dee000e37b39a04836075971b';
